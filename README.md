@@ -5,5 +5,3 @@ Isi masih kosong
 Telah diperbaiki
 
 UNDO COMMIT Terakhir
-
-perbaikan kembali
