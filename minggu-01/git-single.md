@@ -5,6 +5,7 @@
 ## Clone Repository
 
 Proses clone adalah proses untuk menduplikasi remote repo di Github ke komputer lokal. Untuk melakukan proses clone menggunakan perintah berikut:
+
 ![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-clone.jpg)
 
 Setelah perintah ini, di direktori awesome-project akan disimpan isi repo yang sama dengan di GitHub. Perbedaannya, di komputer lokal terdapat direktori .git yang digunakan secara internal oleh Git.
