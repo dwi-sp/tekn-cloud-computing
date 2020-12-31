@@ -1,5 +1,6 @@
 <h1>Cloud Computing</h1>
-Definisi
+<hr>
+<h3>Definisi</h3>
 Cloud computing merupakan istilah dari Cloud diartikan sebagai internet dan Computing diartikan sebagai komputer. Definisi dari Cloud Computing adalah sebuah proses pengolahan daya komputasi melalui jaringan internet yang memiliki fungsi agar dapat menjalankan program melalui komputer yang telah terkoneksi satu sama lain pada waktu yang sama. Cloud Computing merupakan sebuah teknologi yang menjadikan internet sebagai pusat server untuk mengelola data dan juga aplikasi pengguna.
 
 Cloud Computing memudahkan penggunanya untuk menjalankan program tanpa harus menginstall aplikasi terlebih dahulu dan memudahkan pengguna untuk mengakses data dan informasi melalui internet. diklaim juga bahwa komputasi awan memungkinkan perusahaan untuk menjalankan aplikasi lebih cepat, dengan pengelolaan yang lebih baik dan lebih sedikit pemeliharaan, dan memungkinkan tim IT untuk lebih cepat menyesuaikan sumber daya untuk memenuhi permintaan yang berfluktuasi dan tidak terduga.
