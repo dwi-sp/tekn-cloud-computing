@@ -1,7 +1,3 @@
-# My Awesome Project
+# Praktikum Cloud Computing
 
-Isi masih kosong
-
-Telah diperbaiki
-
-UNDO COMMIT Terakhir
+Berisi tentang tugas selama praktikum Teknologi Cloud Computing
