@@ -14,7 +14,11 @@ Berikut adalah beberapa contoh SaaS: Google Apps, Salesforce, Hubspot, Zendesk, 
 
 Berikut adalah beberapa contoh PaaS: Google App Engine, Windows Azure, AWS Elastic Beanstalk.
 
+--
+
 ### SAAS (Software as a Service) Platform Architecture
+
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/tree/master/minggu-02/gambar)
 
 SaaS (Software as a Service) SaaS merupakan suatu lisensi perangkat lunak dan delivery model yang berbasis cloud, sehingga memungkinkan untuk tetap mengakses suatu software dimanapun dengan menggunakan device apapun melalui koneksi internet. Dalam SaaS, pengguna tidak perlu lagi melakukan install, update, atau menangani masalah pada software yang digunakan karena semua hal tersebut telah dikelola oleh vendor, pengguna hanya tinggal menggunakan service yang disediakan.
 
@@ -23,6 +27,8 @@ Berikut adalah beberapa contoh SaaS: Google Apps, Salesforce, Hubspot, Zendesk, 
 **Platform as a Service (PaaS) PaaS** adalah model Cloud service berupa framework yang digunakan oleh pengguna (developer) untuk membangun atau membuat perangkat lunak atau aplikasi. Sistem operasi, server dan segala kebutuhan yang diperlukan disediakan oleh vendor. Hal ini memungkinkan pengguna untuk lebih fokus pada pengembangan perangkat lunak.
 
 Berikut adalah beberapa contoh PaaS: Google App Engine, Windows Azure, AWS Elastic Beanstalk
+
+--
 
 ### Kelebihan dan Kelemahan SAAS (Software as a Service) Platform Architecture
 
@@ -49,6 +55,8 @@ Kekurangan:
 3. Sistem antrian (Sebuah protokon komunikasi asinkron yang memungkinkan pengirim dan penerima berinteraksi disaat yang sama atau dikenal dengan MSMQ seperti RabbitMq)
 
 Dengan Python, Mongo DB dan RabbitMQ sudah mencukupi dalam dasar pembangunan SaaS. Mungkin akan ada penambahan lain seperti kebutuhan software pemantauan dan analitik yang tepat.
+
+--
 
 #### Referensi:
 
