@@ -1,6 +1,6 @@
 ## Instalasi GIT
 
-<hr>
+_sparate paragraph_
 
 ## Clone Repository
 
@@ -21,3 +21,34 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
 3. Membuat file / direktori baru
 4. Menghapus direktori
    Untuk kasus-kasus tersebut, lakukan perubahan di komputer lokal, setelah itu push ke repo.
+
+### Mnegubah Isi dengan Branching and Merging
+
+1. Buat branch untuk menampung perubahan-perubahan
+2. Lakukan perubahan-perubahan
+3. Add dan commit perubahan-perubahan tersebut ke branch
+4. Kembali ke repo master
+5. Buat pull request di GitHub
+6. Merge pull request di GitHub
+7. Merge branch untuk menampung perubahan-perubahan tersebut ke master.
+8. Selesai.
+
+Membuat pull request agar bisa di merger
+
+setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukan ke branch master. Merge di komputer lokal:
+
+### Sinkronisasi:
+
+### Membatalkan Perubahan:
+
+### Undo Commit Terakhir:
+
+Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
+
+Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada di lokal), cara membatalkannya:
+
+Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adalah melakukan git revert kemudian mengedit secara manual kemudian push ke repo.
+
+Edit file tersebut, setelah itu simpan.
+
+Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
