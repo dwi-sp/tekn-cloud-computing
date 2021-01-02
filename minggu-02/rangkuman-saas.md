@@ -18,7 +18,7 @@ Berikut adalah beberapa contoh PaaS: Google App Engine, Windows Azure, AWS Elast
 
 ### SAAS (Software as a Service) Platform Architecture
 
-![alt text](https://github.com/dwi-sp/tekn-cloud-computing/tree/master/minggu-02/gambar/arsitekturSaaS.jpg)
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-02/gambar/arsitekturSaaS.jpg)
 
 SaaS (Software as a Service) SaaS merupakan suatu lisensi perangkat lunak dan delivery model yang berbasis cloud, sehingga memungkinkan untuk tetap mengakses suatu software dimanapun dengan menggunakan device apapun melalui koneksi internet. Dalam SaaS, pengguna tidak perlu lagi melakukan install, update, atau menangani masalah pada software yang digunakan karena semua hal tersebut telah dikelola oleh vendor, pengguna hanya tinggal menggunakan service yang disediakan.
 
