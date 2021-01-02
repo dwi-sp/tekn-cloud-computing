@@ -22,7 +22,9 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
 4. Menghapus direktori
    Untuk kasus-kasus tersebut, lakukan perubahan di komputer lokal, setelah itu push ke repo.
 
-### Mnegubah Isi dengan Branching and Merging
+   ![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-batal-penambahan.jpg)
+
+### Mengubah Isi dengan Branching and Merging
 
 1. Buat branch untuk menampung perubahan-perubahan
 2. Lakukan perubahan-perubahan
@@ -34,6 +36,9 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
 8. Selesai.
 
 Membuat pull request agar bisa di merger
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-batal-penambahan.jpg)
+
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-branching-merger1.jpg)
 
 setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukan ke branch master. Merge di komputer lokal:
 
