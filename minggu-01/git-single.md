@@ -36,11 +36,17 @@ Membuat pull request agar bisa di merger
 
 ![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-branching-merger1.jpg)
 
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-branching-merger3.jpg)
+
 setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukan ke branch master. Merge di komputer lokal:
 
 ### Sinkronisasi:
 
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-sinkron.jpg)
+
 ### Membatalkan Perubahan:
+
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-batal-penambahan.jpg)
 
 ### Undo Commit Terakhir:
 
