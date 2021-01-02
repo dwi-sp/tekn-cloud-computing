@@ -1,7 +1,3 @@
-## Instalasi GIT
-
-_sparate paragraph_
-
 ## Clone Repository
 
 Proses clone adalah proses untuk menduplikasi remote repo di Github ke komputer lokal. Untuk melakukan proses clone menggunakan perintah berikut:
@@ -56,4 +52,7 @@ Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adala
 
 Edit file tersebut, setelah itu simpan.
 
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-revert2.jpg)
+
 Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
+![alt text](https://github.com/dwi-sp/tekn-cloud-computing/blob/master/minggu-01/gambar/git-revert.jpg)
